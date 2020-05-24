@@ -28,27 +28,27 @@ The program supports a few additional commandline options. Use `--help` to get a
 
 The following publications are related to this submission:
 
-* Graph Bisection with Pareto Optimization .
-  Michael Hamann and Ben Strasser.
+* Graph Bisection with Pareto Optimization.\
+  Michael Hamann and Ben Strasser.\
   ACM Journal of Experimental Algorithmics
 
-* Graph Bisection with Pareto-Optimization.
-  Michael Hamann and Ben Strasser.
+* Graph Bisection with Pareto-Optimization.\
+  Michael Hamann and Ben Strasser.\
   Proceedings of the 18th Meeting on Algorithm Engineering and Experiments (ALENEX'16).
 
-* Correspondence between Multilevel Graph Partitions and Tree Decompositions.
-  Michael Hamann and Ben Strasser.
+* Correspondence between Multilevel Graph Partitions and Tree Decompositions.\
+  Michael Hamann and Ben Strasser.\
   MDPI Algorithms.
 
-* Computing Tree Decompositions with FlowCutter - PACE 2017 Submission.
-  Ben Strasser.
+* Computing Tree Decompositions with FlowCutter - PACE 2017 Submission.\
+  Ben Strasser.\
   ArXiv.
   
-* Customizable Contraction Hierarchies.
-  Julian Dibbelt, Ben Strasser, and Dorothea Wagner.
+* Customizable Contraction Hierarchies.\
+  Julian Dibbelt, Ben Strasser, and Dorothea Wagner.\
   ACM Journal of Experimental Algorithmics.
 
-* Customizable Contraction Hierarchies.
-  Julian Dibbelt, Ben Strasser, and Dorothea Wagner.
+* Customizable Contraction Hierarchies.\
+  Julian Dibbelt, Ben Strasser, and Dorothea Wagner.\
   Symposium on Experimental Algorithms (SEA).
 
