@@ -10,7 +10,7 @@ cd flow-cutter-pace20
 ./build.sh
 ```
 
-There are no dependencies beyond a recent GCC. GCC 7.5.0 is recent enough. Older versions might work. Clang should also work but has not been tested by us. Building the code under Windows as Windows-native executable is probably possible but some code level modifications are likely possible. We have not tested the Windows Subsystem for Linux, however, we expect our program to run under it without problems.
+There are no dependencies beyond a recent GCC. GCC 7.5.0 is recent enough. Older versions might work. Clang should also work but has not been tested by us. Building the code under Windows as Windows-native executable is probably possible but some code level modifications are likely necessary. We have not tested the Windows Subsystem for Linux, however, we expect our program to run under it without problems.
 
 After executing the build script, the root directory of the repository should contain the two binary files `flow_cutter_pace20` and `flow_cutter_parallel_pace20`. `flow_cutter_pace20` is the program that is submitted to PACE2020. It is a sequential program that does not make use of multiple cores. `flow_cutter_parallel_pace20` has the exact same commandline but uses as many processor cores as available.
 
